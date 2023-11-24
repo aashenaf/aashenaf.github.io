@@ -4,7 +4,7 @@ layout: default
 
 ## Ethical Concerns in Technology
 
-At a global level, the rapid development of technology has raised a host of ethical issues that need to be addressed. As we incorporate new systems, devices and technological advances into our daily lives, it becomes increasingly important to address these issues. On this page, we look at two broad ethical issues that are commonly discussed in the technology world.
+Beyond academic debates, ethical issues in the field of technology have a significant impact on our day-to-day existence. The ethical environment is complex and dynamic, ranging from concerns about privacy violation made easier by advanced surveillance technology to the spread of false information via digital platforms. This section seeks to clarify the complex ethical issues surrounding technology by examining practical applications and encouraging introspective contemplation about how our digital decisions affect society.
 
 ### Privacy and Surveillance
 
