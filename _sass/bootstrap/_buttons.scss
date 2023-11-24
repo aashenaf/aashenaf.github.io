@@ -103,20 +103,20 @@ a.btn {
   &.active,
   &[disabled],
   fieldset[disabled] & {
-    background-color: transparent;
+    background-color: gray;
     @include box-shadow(none);
   }
   &,
   &:hover,
   &:focus,
   &:active {
-    border-color: transparent;
+    border-color: blue;
   }
   &:hover,
   &:focus {
     color: $link-hover-color;
     text-decoration: $link-hover-decoration;
-    background-color: transparent;
+    background-color: green;
   }
   &[disabled],
   fieldset[disabled] & {
